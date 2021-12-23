@@ -1,2 +1,3 @@
 # Chinese Word Segmentation
-Chinese word segmenter model in Tensorflow
+Chinese word segmentation using BiLSTM (Tensorflow 1)
+
