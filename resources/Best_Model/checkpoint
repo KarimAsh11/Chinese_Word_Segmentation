@@ -1,0 +1,6 @@
+model_checkpoint_path: "final_model.ckpt"
+all_model_checkpoint_paths: "epoch_7_model.ckpt"
+all_model_checkpoint_paths: "epoch_8_model.ckpt"
+all_model_checkpoint_paths: "epoch_9_model.ckpt"
+all_model_checkpoint_paths: "epoch_10_model.ckpt"
+all_model_checkpoint_paths: "final_model.ckpt"
