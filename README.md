@@ -1,2 +1,2 @@
-# Chinese_Word_Segmentation
+# Chinese Word Segmentation
 Chinese word segmenter model in Tensorflow
